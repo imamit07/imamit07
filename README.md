@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amit
-- 👀 I’m interested in App Development 
+- 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - here's my email: amit071845@gmail.com
